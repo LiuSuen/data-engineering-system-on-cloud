@@ -3,7 +3,7 @@
 1. Use a major Big Data system to perform a Data Engineering related task
 2. Example systems could be: (AWS Athena, AWS Spark/EMR, AWS Sagemaker, Databricks, Snowflake)
 ## Introduction
-This project aims to build an ETL Data pipeline to support data dashboard analysis.
+This project aims to build a cloud-based ETL Data pipeline to support data dashboard analysis.
 ## Structure Diagrams
 ## Steps
 ## Usage
